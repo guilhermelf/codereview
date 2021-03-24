@@ -1,0 +1,3 @@
+*.js @guilhermelf
+.github/ @guilhermelf
+*.go @guilhermelf
